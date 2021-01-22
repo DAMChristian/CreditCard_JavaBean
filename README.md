@@ -5,7 +5,7 @@ _Componente que validad tarjetas de credito_
 ## Descripcion 🚀
 Componente jpanel que consta de tres JTextField: número de tarjeta, fecha, ccv.
 El numero de tarjeta se valida al perder focus:
-s
+
     -Cambia de color(Rojo): El número es invalido.
     -No cambia de color(Negro): El número es valido.
 
